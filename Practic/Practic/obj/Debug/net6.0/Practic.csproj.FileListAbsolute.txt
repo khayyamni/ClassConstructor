@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Class-Constructtor\New folder\Practic\Practic\bin\Debug\net6.0\Practic.exe
+C:\Users\user\Desktop\Class-Constructtor\New folder\Practic\Practic\bin\Debug\net6.0\Practic.deps.json
+C:\Users\user\Desktop\Class-Constructtor\New folder\Practic\Practic\bin\Debug\net6.0\Practic.runtimeconfig.json
+C:\Users\user\Desktop\Class-Constructtor\New folder\Practic\Practic\bin\Debug\net6.0\Practic.dll
+C:\Users\user\Desktop\Class-Constructtor\New folder\Practic\Practic\bin\Debug\net6.0\Practic.pdb
+C:\Users\user\Desktop\Class-Constructtor\New folder\Practic\Practic\obj\Debug\net6.0\Practic.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Class-Constructtor\New folder\Practic\Practic\obj\Debug\net6.0\Practic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Class-Constructtor\New folder\Practic\Practic\obj\Debug\net6.0\Practic.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Class-Constructtor\New folder\Practic\Practic\obj\Debug\net6.0\Practic.AssemblyInfo.cs
+C:\Users\user\Desktop\Class-Constructtor\New folder\Practic\Practic\obj\Debug\net6.0\Practic.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Class-Constructtor\New folder\Practic\Practic\obj\Debug\net6.0\Practic.dll
+C:\Users\user\Desktop\Class-Constructtor\New folder\Practic\Practic\obj\Debug\net6.0\refint\Practic.dll
+C:\Users\user\Desktop\Class-Constructtor\New folder\Practic\Practic\obj\Debug\net6.0\Practic.pdb
+C:\Users\user\Desktop\Class-Constructtor\New folder\Practic\Practic\obj\Debug\net6.0\Practic.genruntimeconfig.cache
+C:\Users\user\Desktop\Class-Constructtor\New folder\Practic\Practic\obj\Debug\net6.0\ref\Practic.dll
